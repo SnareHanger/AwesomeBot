@@ -23,4 +23,8 @@ https://msdn.microsoft.com/en-us/library/aa288436(v=vs.71).aspx \
 https://msdn.microsoft.com/en-us/library/xk24xdbe(v=vs.90).aspx \
 https://www.youtube.com/watch?v=Yj0G5UdBJZw&list=PLEbaEyM-xt9mVQEAXGlRRmbO2Qp_oqF-n \
 ',
+ reactText: 'See these links for learning ReactJS: \
+https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b \
+https://facebook.github.io/react/docs/getting-started.html \
+'
 };
